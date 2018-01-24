@@ -1,2 +1,2 @@
 # kozhikoden-react-native
-Android app for Kozhikoden in React Native
+Android app for [Kozhikoden](https://github.com/liginv/kozhikoden) in React Native
